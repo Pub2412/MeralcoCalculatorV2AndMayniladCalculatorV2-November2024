@@ -1,0 +1,5 @@
+Water Billing Statement
+Basic Charge: 4246
+Environmental Charge: 866.439
+VAT: 624.016
+Total Amount Due: 6024.15

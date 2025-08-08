@@ -1,0 +1,16 @@
+----------------- Meralco Bill -----------------
+   Remaining Balance from Previous Bill:                1.00
+        Charges for this Billing Period:                1.00
+                      Generation Charge:                0.00
+                    Transmission Charge:                0.00
+                     System Loss Charge:                0.00
+          Distribution (Meralco) Charge:                0.00
+                              Subsidies:                0.00
+                       Government Taxes:                0.00
+                      Universal Charges:                0.00
+             FIT-All (Renewable) Charge:                0.00
+                        Applied Credits:               -0.00
+                          Other Charges:                1.00
+                        Installment Due:                0.00
+                      
+Total Amount Due:                PHP 1.00
